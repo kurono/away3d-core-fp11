@@ -3,7 +3,7 @@ package away3d.filters {
 	import away3d.containers.ObjectContainer3D;
 	import away3d.core.managers.Stage3DProxy;
 	import away3d.filters.Filter3DBase;
-
+ 	import away3d.filters.tasks.DepthSSAOFilter3DTask;
 	import flash.geom.Vector3D;
 
 	public class DepthSSAOFilter3D extends Filter3DBase
